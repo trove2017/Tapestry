@@ -7,4 +7,4 @@ Instructions:
 3) Follow the rest of the instructions in TAPESTRY User Guide.pdf for installation and usage.
 
 Runnable jar:
-TAPESTRY_wrapper.jar is found in the release ().
+TAPESTRY_wrapper.jar is found in the release (https://github.com/trove2017/Tapestry/releases).
