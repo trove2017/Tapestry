@@ -1,0 +1,9 @@
+Test, AktPIP3, RHRG, Shc, MEK
+Fold1, PI3Kstar, HRG, R, RasGTP
+Fold2, Rafstar, RPI3K, ShGS, MEKP
+Fold3, RP, RPI3Kstar, ERK, PP2A
+Fold4, Akt, ShP, RHRG2, PI3K
+Fold5, AktPIPP, P_I, RasGDP, MKP3
+Fold6, Raf, PIP3, internalization, ERKPP
+Fold7, MEKPP, ERKP, RShc, E
+Fold8, AktPIP, RShGS, GS, RShP	

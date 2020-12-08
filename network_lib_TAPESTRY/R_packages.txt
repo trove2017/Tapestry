@@ -1,0 +1,8 @@
+R library
+1) Rserve
+2) survcomp
+http://www.bioconductor.org/packages/release/bioc/html/survcomp.html
+
+installation
+source("http://bioconductor.org/biocLite.R")
+biocLite("survcomp")
